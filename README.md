@@ -29,7 +29,7 @@ We take a look at the Var_PSI and the number is 62.29, which is within the 100 P
 
 When taking a look at the t-tests, we can see that something was very different in lot 3 compared to lot 1 and 2. The P-value is fairly high within lot 1 and 2 comparatively to lot 3's p-value of .04. This does not fall within the common significance level of 0.05. This means that we have to reject this test. 
 
-## Deliverable 4: ## Study Design: MechaCar vs Competition
+## Deliverable 4: Study Design: MechaCar vs Competition
 
 A couple of things that would be interesting for manufacturers to take a look at when comparing vehicles are MPG, engine type, safety ratings, and resale values. This can determine how a car performs and how long they can last even if they are running at a high level. 
 
